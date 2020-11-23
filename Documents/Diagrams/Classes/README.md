@@ -1,3 +1,3 @@
 # Диаграмма классов
 
-![1](../Class/Class.png)
+![1](../Classes/Class.png)
