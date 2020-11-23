@@ -1,4 +1,4 @@
-## Mockups
+## Mockups 🖼
 
 1. [Main](https://github.com/GoRunMaxim/StudentBase/blob/main/Documents/Mockups/Main%20Window.png)
 2. [Edit](https://github.com/GoRunMaxim/StudentBase/blob/main/Documents/Mockups/Edit%20Window.png)
