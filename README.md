@@ -1,4 +1,4 @@
-# StudentBase
+# StudentBase 👩‍🎓👨‍🎓
 
 
 [Software development and testing technologies subject]
