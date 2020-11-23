@@ -38,4 +38,4 @@
 ### Удаление
 ---
 
-![8](../Activities/Delete.png)
+![8](../Activities/Delele.png)
