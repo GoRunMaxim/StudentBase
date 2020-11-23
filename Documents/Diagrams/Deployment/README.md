@@ -1,4 +1,4 @@
 # Диаграмма компонентов и развертывания
 
-![1](../Component_Deployment/comp_depl.png)
+![1](../Deployment/deploy.png)
 
