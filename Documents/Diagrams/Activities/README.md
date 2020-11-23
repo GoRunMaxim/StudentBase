@@ -8,34 +8,34 @@
 ### Вывод "плохих" учеников
 ---
 
-![2](../Activity/Bad_students.png)
+![2](../Activities/Bad_students.png)
 
 ### Вывод "хороших" учеников
 ---
 
-![3](../Activity/Good_students.png)
+![3](../Activities/Good_students.png)
 
 ### Добавление
 ---
 
-![4](../Activity/Add.png)
+![4](../Activities/Add.png)
 
 ### Отмена
 ---
 
-![5](../Activity/Cancel.png)
+![5](../Activities/Cancel.png)
 
 ### Поиск
 ---
 
-![6](../Activity/Search.png)
+![6](../Activities/Search.png)
 
 ### Редактирование
 ---
 
-![7](../Activity/Edit.png)
+![7](../Activities/Edit.png)
 
 ### Удаление
 ---
 
-![8](../Activity/Delete.png)
+![8](../Activities/Delete.png)
