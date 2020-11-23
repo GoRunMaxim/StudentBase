@@ -11,4 +11,4 @@ Desktop Application **StudentBase** helps you to work with student database
 
 [Mockups](https://github.com/GoRunMaxim/StudentBase/tree/main/Documents/Mockups)
 
-[System requirements](https://github.com/GoRunMaxim/StudentBase/tree/main/Documents/Requirements)
+[System requirements](https://github.com/GoRunMaxim/StudentBase/blob/main/Documents/Requirements/SRS.md)
