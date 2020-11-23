@@ -1,4 +1,4 @@
-## Diagrams
+## Diagrams 📊
 
 1. [Use case](https://github.com/GoRunMaxim/StudentBase/blob/main/Documents/Diagrams/UseCase/README.md)
 2. [Activities](https://github.com/GoRunMaxim/StudentBase/blob/main/Documents/Diagrams/Activities/README.md)
