@@ -3,12 +3,12 @@
 ### Вывод всех учеников
 ---
 
-![1](../State/All students.png)
+![1](../State/All_students.png)
 
 ### Вывод "плохих" или "хороших" учеников
 ---
 
-![2](../State/Bad/Good students.png)
+![2](../State/Bad:Good students.png)
 
 ### Добавление
 ---
