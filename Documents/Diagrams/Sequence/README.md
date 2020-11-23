@@ -3,39 +3,39 @@
 ### Вывод всех учеников
 ---
 
-![1](../Sequence/Вывод_всех_учеников.png)
+![1](../Sequence/All_students.png)
 
 ### Вывод "плохих" учеников
 ---
 
-![2](../Sequence/Вывод_плохих_учеников.png)
+![2](../Sequence/Bad_students.png)
 
 ### Вывод "хороших" учеников
 ---
 
-![3](../Sequence/Вывод_хороших_учеников.png)
+![3](../Sequence/Good_students.png)
 
 ### Добавление
 ---
 
-![4](../Sequence/Добавление.png)
+![4](../Sequence/Add.png)
 
 ### Отмена
 ---
 
-![5](../Sequence/Отмена.png)
+![5](../Sequence/Cancel.png)
 
 ### Поиск
 ---
 
-![6](../Sequence/Поиск.png)
+![6](../Sequence/Search.png)
 
 ### Редактирование
 ---
 
-![7](../Sequence/Редактирование.png)
+![7](../Sequence/Edit.png)
 
 ### Удаление
 ---
 
-![8](../Sequence/Удаление.png)
+![8](../Sequence/Delete.png)
