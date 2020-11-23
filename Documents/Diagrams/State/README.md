@@ -3,7 +3,7 @@
 ### Вывод всех учеников
 ---
 
-![1](../State/All%20students.png.png)
+![1](https://github.com/GoRunMaxim/StudentBase/blob/main/Documents/Diagrams/State/All%20students.png)
 
 ### Вывод "плохих" или "хороших" учеников
 ---
